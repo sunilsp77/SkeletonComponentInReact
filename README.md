@@ -1,2 +1,0 @@
-# SkeletonComponentInReact
-Created with CodeSandbox
